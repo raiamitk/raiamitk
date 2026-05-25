@@ -64,7 +64,7 @@ Location-aware activity and service finder. Uses your precise location to surfac
 
 ## Also Built
 
-- **Verse Solution** Internal sales intelligence tool: client research, solutions mapping, and pitch generation in one shot. Built for a real commercial team. 
+- **PreSales Solution** Internal sales intelligence tool: client research, solutions mapping, and pitch generation in one shot. Built for a real commercial team. 
 
 ---
 
