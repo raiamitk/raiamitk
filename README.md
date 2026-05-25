@@ -5,16 +5,7 @@ Not because someone asked me to. Because I couldn't stop thinking about it.
 Most of what's here started as "this should exist" and ended as a working product. All built with Claude API, Next.js, and way too many late nights.
 
 ---
-
 ## Live Projects
-
-### [SwiftApply]
-**Job search on autopilot**
-
-Upload your resume. SwiftApply finds matching jobs on LinkedIn, tailors your resume for each one, and auto-applies â€” while you're doing other things. Built with Playwright for browser automation + AI for resume matching and optimization.
-
-`Playwright` Â· `Claude API` Â· `Next.js` Â· `TypeScript`
-
 ---
 
 ### [HireFlow](https://hireflow-dusky.vercel.app)
@@ -35,12 +26,13 @@ Monitors how a brand appears in Google AI Overviews and AI-generated search resu
 
 ---
 
-### [Clipora]
-**Images + text = short-form reel**
 
-Give it your images and copy. Clipora generates a reel-ready video format. For creators who need content volume without the editing time.
+### [SwiftApply]
+**Job search on autopilot**
 
-`Claude API` Â· `Next.js` Â· `TypeScript`
+Upload your resume. SwiftApply finds matching jobs on LinkedIn, tailors your resume for each one, and auto-applies â€” while you're doing other things. Built with Playwright for browser automation + AI for resume matching and optimization.
+
+`Playwright` Â· `Claude API` Â· `Next.js` Â· `TypeScript`
 
 ---
 
@@ -64,7 +56,8 @@ Location-aware activity and service finder. Uses your precise location to surfac
 
 ## Also Built
 
-- **PreSales Solution** Internal sales intelligence tool: client research, solutions mapping, and pitch generation in one shot. Built for a real commercial team. 
+- **Sales Empowering PreSales Solution** — Internal sales intelligence tool: client research, solutions mapping, and pitch generation in one shot. Built for a real commercial team. verse-solution.vercel.app
+- **Dhamma Vipassana** — A personal project. A meditation companion app for Vipassana practice — segmented audio playback, phonetic Pali rendering for accurate pronunciation in TTS, mobile-optimised voice filtering. Built because the apps that existed weren't good enough for serious practice.
 
 ---
 
