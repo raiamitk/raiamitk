@@ -58,10 +58,14 @@ Location-aware activity and service finder. Uses your precise location to surfac
 
 ----
 
-- **Sales Empowering PreSales Solution** — Internal sales intelligence tool: client research, solutions mapping, and pitch generation in one shot. Built for a real sales team on the go.
+- **Sales Empowering PreSales Solution**
+  
+- Internal sales intelligence tool: client research, solutions mapping, and pitch generation in one shot. Built for a real sales team on the go.
 
 - ### [Dhamma](https://dhamma-vipassana.vercel.app)
-**A personal meditation App**. A meditation companion app for Vipassana practice — segmented audio playback, phonetic Pali rendering for accurate pronunciation in TTS, mobile-optimised voice filtering. Built because the apps that existed weren't good enough for serious practice. 
+**A personal meditation App**. 
+
+A meditation companion app for Vipassana practice — segmented audio playback, phonetic Pali rendering for accurate pronunciation in TTS, mobile-optimised voice filtering. Built because the apps that existed weren't good enough for serious practice. 
 
 ---
 
