@@ -60,7 +60,7 @@ Location-aware activity and service finder. Uses your precise location to surfac
 
 - **Sales Empowering PreSales Solution**
   
-- Internal sales intelligence tool: client research, solutions mapping, and pitch generation in one shot. Built for a real sales team on the go.
+Internal sales intelligence tool: client research, solutions mapping, and pitch generation in one shot. Built for a real sales team on the go.
 
 - ### [Dhamma](https://dhamma-vipassana.vercel.app)
 **A personal meditation App**. 
