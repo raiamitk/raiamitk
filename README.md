@@ -6,9 +6,9 @@ Most of what's here started as "this should exist" and ended as a working produc
 
 ---
 
-## ðŸš€ Live Projects
+## Live Projects
 
-### [SwiftApply](https://swiftapply-mauve.vercel.app)
+### [SwiftApply]
 **Job search on autopilot**
 
 Upload your resume. SwiftApply finds matching jobs on LinkedIn, tailors your resume for each one, and auto-applies â€” while you're doing other things. Built with Playwright for browser automation + AI for resume matching and optimization.
@@ -26,7 +26,7 @@ Full mock interview loop: AI-generated questions for your target role, live deli
 
 ---
 
-### [BrandEcho](https://brandecho-five.vercel.app)
+### [BrandEcho]
 **How does Google AI see your brand?**
 
 Monitors how a brand appears in Google AI Overviews and AI-generated search results. Built when I realized most brands have no idea what the AI layer is saying about them â€” and no tool to track it.
@@ -35,8 +35,8 @@ Monitors how a brand appears in Google AI Overviews and AI-generated search resu
 
 ---
 
-### [Clipora](https://project-zw26y.vercel.app)
-**Images + text â†’ short-form reel**
+### [Clipora]
+**Images + text = short-form reel**
 
 Give it your images and copy. Clipora generates a reel-ready video format. For creators who need content volume without the editing time.
 
@@ -44,7 +44,7 @@ Give it your images and copy. Clipora generates a reel-ready video format. For c
 
 ---
 
-### [Sumly](https://sumly-tau.vercel.app)
+### [Sumly]
 **News, summarized**
 
 Real-time news summarization with publisher attribution pulled from Google News. Background pre-enrichment means you get context, not just headlines.
@@ -53,7 +53,7 @@ Real-time news summarization with publisher attribution pulled from Google News.
 
 ---
 
-### [DoNow](https://donow-eta.vercel.app)
+### [DoNow]
 **What should I do right now, near me?**
 
 Location-aware activity and service finder. Uses your precise location to surface what's relevant, right now. No accounts, no friction.
@@ -62,9 +62,9 @@ Location-aware activity and service finder. Uses your precise location to surfac
 
 ---
 
-## ðŸ› ï¸ Also Built
+## Also Built
 
-- **Verse Solution** â€” Internal sales intelligence tool: client research, solutions mapping, and pitch generation in one shot. Built for a real commercial team. [`verse-solution.vercel.app`](https://verse-solution.vercel.app)
+- **Verse Solution** Internal sales intelligence tool: client research, solutions mapping, and pitch generation in one shot. Built for a real commercial team. 
 
 ---
 
