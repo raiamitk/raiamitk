@@ -72,7 +72,7 @@ A living, visual diagnosis of your connection — not just a speed number. Runs 
 
 ---
 
-### [ZeroScan]
+### [PubScan]
 **URL in, ad-tech report out.**
 
 No login, no client data, no meeting to start. Point it at any publisher URL and get a graded report: ad latency, ads.txt/sellers.json supply-chain validation, and AI-crawler readiness — all from one headless Chromium crawl. Also ships as a standalone Python CLI ([zascan](https://github.com/raiamitk/zascan-adtech-tool)).
