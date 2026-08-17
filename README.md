@@ -54,6 +54,42 @@ Location-aware activity and service finder. Uses your precise location to surfac
 
 ---
 
+### [SignClear](https://signclear.vercel.app)
+**Read between the lines. Literally.**
+
+Drop in a contract and get every one-sided clause highlighted directly in the document — severity-ranked, in plain language, with what to negotiate. Client-side PDF/DOCX/OCR extraction, two-pass Grok analysis for deterministic, exhaustive clause detection.
+
+`Grok API` Â· `pdf.js` Â· `Tesseract.js` Â· `Vercel`
+
+---
+
+### [Internet Doctor](https://internet-doctor.vercel.app)
+**Understand your Internet.**
+
+A living, visual diagnosis of your connection — not just a speed number. Runs a battery of in-browser checks, narrates them as they happen, then renders a score, a persona, and a readiness verdict for streaming, calls, and gaming.
+
+`Vanilla JS` Â· `Vercel`
+
+---
+
+### [ZeroScan]
+**URL in, ad-tech report out.**
+
+No login, no client data, no meeting to start. Point it at any publisher URL and get a graded report: ad latency, ads.txt/sellers.json supply-chain validation, and AI-crawler readiness — all from one headless Chromium crawl. Also ships as a standalone Python CLI ([zascan](https://github.com/raiamitk/zascan-adtech-tool)).
+
+`Playwright` Â· `Next.js` Â· `Python`
+
+---
+
+### [Publisher Revenue X-Ray]
+**Where is your ad revenue actually leaking?**
+
+Automated Playwright/CDP crawl of a publisher's page, graded latency report with concrete revenue-impact findings (10 finding types), narrated by Claude. Free/paid split with Stripe checkout for the full report.
+
+`Playwright` Â· `Claude API` Â· `Next.js` Â· `BullMQ` Â· `Stripe`
+
+---
+
 ## Also Built
 
 ----
